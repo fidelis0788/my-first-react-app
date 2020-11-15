@@ -8,7 +8,7 @@ class App extends Component{
     this.state = {
        list: ''.split(','),
        newItems: [],
-      isClicked:false
+      
     }
    
   }
